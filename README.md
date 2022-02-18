@@ -1,4 +1,4 @@
 # express-review
-#npm install
+npm install
 
-#nodemon .\index.js
+nodemon .\index.js
